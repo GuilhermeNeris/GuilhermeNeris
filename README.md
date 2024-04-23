@@ -18,12 +18,14 @@
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   </div>
+
   
   🗃📦 <b>Database</b>
   <div style="display: inline-block">
   <img alt="workbanch" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
   <img alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" >
   </div>
+
   
   ⚙📚 <b>Framework & Library</b>
   <div style="display: inline-block">
@@ -40,18 +42,21 @@
   <img alt="visualStudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img alt="" src="">
     </div>
+
   
   🎨 <b>Design</b>
   <div style="display: inline-block">
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
   <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   </div>
+
   
   🧠 <b>OS</b>
   <div style="display: inline-block">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" >
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
+
   
   🖥🖱 <b>Terminal</b>
   <div style="display: inline-block">
