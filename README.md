@@ -5,10 +5,8 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br>
 
 ![GuilhermeNeris GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNeris&show_icons=true&count_private=true&theme=dark)
-
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNeris&layout=compact&theme=dark)
 <!--
 **GuilhermeNeris/GuilhermeNeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
