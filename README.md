@@ -1,5 +1,5 @@
-
-### Seja Bem-vindo ao meu perfil!👋
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0BF700&random=false&width=435&lines=Ol%C3%A1+mundo!;Me+chamo+Guilherme+Neris;Bem+vindos+ao+meu+perfil" alt="Typing SVG" /></a> </p>
 
 <a href="https://github.com/GuilhermeNeris">
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
